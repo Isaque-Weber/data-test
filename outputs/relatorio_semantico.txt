@@ -1,0 +1,128 @@
+RELATORIO DE INTERPRETAÇÃO SEMANTICA (CSAT Detratores)
+====================================================================================================
+
+[ANALISE DO MOTIVO]: CONFIRMAÇÃO DE PAGAMENTO
+----------------------------------------------------------------------------------------------------
+   >> TOP CONCEITOS IDENTIFICADOS EM 'Confirmação de pagamento':
+       * Quebra Confianca (24% das queixas)
+       * Gap Atendimento (14% das queixas)
+       * Falha Logistica (12% das queixas)
+
+   >> DIAGNOSTICO SUGERIDO:
+       ALERTA CRÍTICO: Os padrões indicam PERCEPÇÃO DE QUEBRA DE CONFIANÇA
+       associada a (Quebra Confianca).
+       Esse padrão está diretamente ligado a churn, judicialização
+       e deterioração da marca.
+
+       Direcionamento sugerido:
+       • Auditoria imediata do processo relacionado ao motivo
+       • Revisão de mensagens comerciais, regras e expectativas geradas
+====================================================================================================
+
+[ANALISE DO MOTIVO]: CUPOM DE DESCONTO INVÁLIDO
+----------------------------------------------------------------------------------------------------
+   >> TOP CONCEITOS IDENTIFICADOS EM 'Cupom de desconto inválido':
+       * Falha Logistica (21% das queixas)
+       * Quebra Confianca (19% das queixas)
+       * Gap Atendimento (12% das queixas)
+
+   >> DIAGNOSTICO SUGERIDO:
+       O diagnóstico aponta para uma FALHA OPERACIONAL EXTERNA (Falha Logistica),
+       relacionada à logística e last-mile.
+       O atendimento atua como ponto de contenção, sem capacidade real
+       de resolver a causa raiz, o que limita ganhos de CSAT por ações isoladas.
+
+       Direcionamento sugerido:
+       • Utilizar os dados para renegociação de SLA com parceiros
+       • Criar comunicação preventiva ao cliente em casos de atraso conhecido
+====================================================================================================
+
+[ANALISE DO MOTIVO]: DÚVIDA SOBRE FRETE
+----------------------------------------------------------------------------------------------------
+   >> TOP CONCEITOS IDENTIFICADOS EM 'Dúvida sobre frete':
+       * Falha Logistica (20% das queixas)
+       * Gap Atendimento (16% das queixas)
+       * Quebra Confianca (14% das queixas)
+
+   >> DIAGNOSTICO SUGERIDO:
+       O diagnóstico aponta para uma FALHA OPERACIONAL EXTERNA (Falha Logistica),
+       relacionada à logística e last-mile.
+       O atendimento atua como ponto de contenção, sem capacidade real
+       de resolver a causa raiz, o que limita ganhos de CSAT por ações isoladas.
+
+       Direcionamento sugerido:
+       • Utilizar os dados para renegociação de SLA com parceiros
+       • Criar comunicação preventiva ao cliente em casos de atraso conhecido
+====================================================================================================
+
+[ANALISE DO MOTIVO]: RASTREAMENTO NÃO ATUALIZA
+----------------------------------------------------------------------------------------------------
+   >> TOP CONCEITOS IDENTIFICADOS EM 'Rastreamento não atualiza':
+       * Quebra Confianca (21% das queixas)
+       * Falha Logistica (15% das queixas)
+       * Gap Atendimento (14% das queixas)
+
+   >> DIAGNOSTICO SUGERIDO:
+       ALERTA CRÍTICO: Os padrões indicam PERCEPÇÃO DE QUEBRA DE CONFIANÇA
+       associada a (Quebra Confianca).
+       Esse padrão está diretamente ligado a churn, judicialização
+       e deterioração da marca.
+
+       Direcionamento sugerido:
+       • Auditoria imediata do processo relacionado ao motivo
+       • Revisão de mensagens comerciais, regras e expectativas geradas
+====================================================================================================
+
+[ANALISE DO MOTIVO]: ESTORNO NÃO REALIZADO
+----------------------------------------------------------------------------------------------------
+   >> TOP CONCEITOS IDENTIFICADOS EM 'Estorno não realizado':
+       * Atrito Jornada (19% das queixas)
+       * Quebra Confianca (15% das queixas)
+       * Falha Financeira (15% das queixas)
+
+   >> DIAGNOSTICO SUGERIDO:
+       Os padrões indicam FRICÇÃO NA JORNADA (Atrito Jornada), com alto esforço
+       do cliente para concluir o fluxo de forma autônoma.
+       O cliente tenta resolver sozinho, falha no self-service e transborda
+       para o CX já frustrado, pressionando o CSAT.
+
+       Direcionamento sugerido:
+       • Simplificação do fluxo de UX no app/site
+       • Redução de etapas e linguagem mais clara no autoatendimento
+====================================================================================================
+
+[ANALISE DO MOTIVO]: RECLAMAÇÃO SOBRE TRANSPORTADORA
+----------------------------------------------------------------------------------------------------
+   >> TOP CONCEITOS IDENTIFICADOS EM 'Reclamação sobre transportadora':
+       * Quebra Confianca (18% das queixas)
+       * Falha Logistica (16% das queixas)
+       * Gap Atendimento (15% das queixas)
+
+   >> DIAGNOSTICO SUGERIDO:
+       ALERTA CRÍTICO: Os padrões indicam PERCEPÇÃO DE QUEBRA DE CONFIANÇA
+       associada a (Quebra Confianca).
+       Esse padrão está diretamente ligado a churn, judicialização
+       e deterioração da marca.
+
+       Direcionamento sugerido:
+       • Auditoria imediata do processo relacionado ao motivo
+       • Revisão de mensagens comerciais, regras e expectativas geradas
+====================================================================================================
+
+[ANALISE DO MOTIVO]: ALTERAÇÃO DE DADOS CADASTRAIS
+----------------------------------------------------------------------------------------------------
+   >> TOP CONCEITOS IDENTIFICADOS EM 'Alteração de dados cadastrais':
+       * Gap Atendimento (21% das queixas)
+       * Quebra Confianca (16% das queixas)
+       * Falha Financeira (14% das queixas)
+
+   >> DIAGNOSTICO SUGERIDO:
+       Os padrões indicam FRICÇÃO NA JORNADA (Gap Atendimento), com alto esforço
+       do cliente para concluir o fluxo de forma autônoma.
+       O cliente tenta resolver sozinho, falha no self-service e transborda
+       para o CX já frustrado, pressionando o CSAT.
+
+       Direcionamento sugerido:
+       • Simplificação do fluxo de UX no app/site
+       • Redução de etapas e linguagem mais clara no autoatendimento
+====================================================================================================
